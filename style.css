@@ -139,11 +139,11 @@
   }
   .information{
     width:1320px;
-    height:400px;
+    height:480px;
     background:linear-gradient(rgb(231, 178, 178),rgb(253, 253, 253));
     border-radius:5px;
     margin:0px auto;
-    /* padding:120px 0px; */
+    padding:120px 0px;
   }
   .text-content{
     width:500px;
