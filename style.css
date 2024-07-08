@@ -137,17 +137,17 @@
   }
   .information{
     width:1320px;
-    height:480px;
+    height:200px;
     background:linear-gradient(rgb(231, 178, 178),rgb(253, 253, 253));
     border-radius:5px;
     margin:0px auto;
-    padding:120px 0px;
+    /* padding:120px 0px; */
   }
   .text-content{
     width:500px;
     height:270px;
     border:1px solid blue;
-    margin:0px auto ;
+    margin:0px auto;
   }
   .text-content h2{
     font-size: 32px ;
