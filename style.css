@@ -57,7 +57,9 @@
     text-align: center;
     border:1px solid red;
     margin:0px auto;
-    background-image:url("./new-year-offer-resources/images/Banner\ Image.png");
+    background-image:url("./new-year-offer-resources/images/Banner-Image.png");
+    background-color:rgba(0,0,0,0.4);
+    background-blend-mode: overlay;
   }
   .header .header-content{
     width:600px;
@@ -137,7 +139,7 @@
   }
   .information{
     width:1320px;
-    height:200px;
+    height:400px;
     background:linear-gradient(rgb(231, 178, 178),rgb(253, 253, 253));
     border-radius:5px;
     margin:0px auto;
