@@ -57,7 +57,7 @@
     text-align: center;
     border:1px solid red;
     margin:0px auto;
-    background-image:url("/new-year-offer-resources/images/Banner\ Image.png");
+    background-image:url("./new-year-offer-resources/images/Banner\ Image.png");
   }
   .header .header-content{
     width:600px;
@@ -97,7 +97,7 @@
   .main{
     width:1320px;
     height:600px;
-    background-image:url("/new-year-offer-resources/images/Vectorrr.png");
+    background-image:url("../moduels6/new-year-offer-resources/images/Vectorrr.png");
     margin:120px auto;
     display: flex;
     justify-content: space-between;
